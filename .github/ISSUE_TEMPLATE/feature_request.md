@@ -8,6 +8,4 @@ assignees: ''
 ---
 * **Type**:
 
-* **Branch Name:**
-
 * **Description:**
