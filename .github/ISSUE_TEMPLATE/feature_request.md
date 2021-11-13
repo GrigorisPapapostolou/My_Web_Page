@@ -1,12 +1,12 @@
----
-name: Feature request
-about: New feature for the project
-title: "[FEAT]"
-labels: enhancement
-assignees: ''
+**Title**: 
 
----
+**Type**:
 
-**Description :**
+**Release**:
 
-**Feature Branch :**
+**Requirement id**: 
+
+**Dev Task id**: 
+
+**Decription**: 
+
