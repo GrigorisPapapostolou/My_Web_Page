@@ -8,6 +8,4 @@ assignees: ''
 ---
 * **Type**:
 
-* **Release**:
-
 * **Description:**
